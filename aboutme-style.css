@@ -1,0 +1,33 @@
+.blue{
+	color: blue;
+}
+
+.green{
+	color: green;
+}
+
+.red{
+	color: red;
+}
+
+.nice-text{
+	font-weight: 700;
+	font-style: italic;
+	font-size: 2em;
+	font-family: "Times New Roman";
+}
+
+.ip-text{
+	font-weight: 300;
+	font-style: oblique;
+	font-size: 3em;
+	font-family: "Trebuchet";
+}
+
+p{
+	text-align: center;
+}
+ul{
+	background-color: grey;
+
+}
